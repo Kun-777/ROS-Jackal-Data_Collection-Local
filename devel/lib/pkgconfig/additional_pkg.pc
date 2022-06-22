@@ -1,8 +1,0 @@
-prefix=/home/kevin/Documents/jackal_ws/devel
-
-Name: additional_pkg
-Description: Description of additional_pkg
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
