@@ -1,7 +1,0 @@
-set(additional_pkg_SETUP_PY_SETUP_MODULE "distutils.core")
-set(additional_pkg_SETUP_PY_VERSION "0.0.0")
-set(additional_pkg_SETUP_PY_SCRIPTS "src/check_goal_node.py")
-set(additional_pkg_SETUP_PY_PACKAGES "additional_pkg")
-set(additional_pkg_SETUP_PY_PACKAGE_DIRS "src/additional_pkg")
-set(additional_pkg_SETUP_PY_MODULES "")
-set(additional_pkg_SETUP_PY_MODULE_DIRS "")
