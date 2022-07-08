@@ -8,7 +8,7 @@ The purpose of the project is to collect the user Jackal Bot driving data. **Use
 ## Instruction
 > Download the setup script
 - Git clone this repository to your computer 
-- `cd` into the directory on your local machine and run `.\start_script.sh` in the terminal
+- `cd` into the directory on your local machine and run `./start_script.sh` in the terminal
 - After setting up, you will see prompt in the terminal asking user to input a number between 0 - 299 for choosing a world map to run
 
 > Drive the Jackal Bot
