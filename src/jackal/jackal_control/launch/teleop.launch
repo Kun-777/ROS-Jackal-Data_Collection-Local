@@ -1,5 +1,5 @@
 <launch>
-  <arg name="joy_dev" default="/dev/input/js0" />
+  <arg name="joy_dev" default="/dev/input/js4" />
   <arg name="joystick" default="true" />
   <!--
   <group ns="bluetooth_teleop" if="$(arg joystick)">
